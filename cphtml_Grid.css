@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: aliceblue;
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-gap: 0px;
+}
+
+.container div {
+  background-color: skyblue;
+  padding: 5px;
+  border: 2px solid green;
+}
